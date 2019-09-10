@@ -6,13 +6,13 @@
           "../rendering.rkt"
           (except-in racket read do))
 
-@title{Roman Numeral Katas}
+@title{Unnamed Kata Collection}
 
 A philosophical note to whomever is going to write this documenation:
 
 This is not a Kata Collection.
 
-@image{scribblings/img/roman.jpg}
+@image{scribblings/img/pipe.jpg}
 
 This is a web page that displays information that came from a kata
 collection.  Neither the web page, nor the Scribble file that created it
