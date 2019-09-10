@@ -4,6 +4,7 @@
 
 (define deps '(
   "ts-kata-util"
+  "https://github.com/Dimitriedd/roman-numeral-lang.git"
   ;Your deps here
   ))
 
