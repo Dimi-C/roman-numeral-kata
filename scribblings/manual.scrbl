@@ -17,9 +17,8 @@ Katas based on the racket package @hyperlink["https://pkgs.racket-lang.org/packa
 
 @section{Roman Numerals Katas}
 
-These katas came from @racket[katas.rkt].
-Edit the kata definitions there.
+Katas based on the functions in the @hyperlink["https://pkgs.racket-lang.org/package/roman-numeral"]{roman-numeral} package.
 
-For custom rendering edit @racket[rendering.rkt].
+
 
 @(render katas)
