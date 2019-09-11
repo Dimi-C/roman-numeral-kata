@@ -8,30 +8,14 @@
 
 @title{Roman Numeral Katas}
 
-A philosophical note to whomever is going to write this documenation:
-
-This is not a Kata Collection.
+Katas based on the racket package @hyperlink["https://pkgs.racket-lang.org/package/roman-numeral"]{roman-numeral}
 
 @image{scribblings/img/roman.jpg}
 
-This is a web page that displays information that came from a kata
-collection.  Neither the web page, nor the Scribble file that created it
-are kata collections.
-
-Keep that in mind as you get rid of all of this text and replace it
-with all of the cool katas you're about to make.  Make your katas in
-@racket[katas.rkt] and whatever @racket[rkt] files are appropriate.
-
-That's where the kata collection goes.  C'est la pipe.
-Keep the pipe in Racket, not in scribble. 
-
-What to do in Scribble, you ask?  1) Any long-form prose about your collection.
-2) Organizing a kata collection onto different pages or different sections of a
-document. 3) Any meta information about your collection.  And so on.
 
 @table-of-contents[]
 
-@section{Katas}
+@section{Roman Numerals Katas}
 
 These katas came from @racket[katas.rkt].
 Edit the kata definitions there.
